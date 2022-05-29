@@ -1,0 +1,30 @@
+body{
+    background-image: url(https://i.pinimg.com/originals/52/66/fd/5266fd1b7cfa66ce7faeeab9c1efaa2d.jpg);
+    
+}
+.header-div{
+    background-color: lightblue;
+    color: red;
+    font-family: cursive;
+}
+#sca{
+    font-family: 'Pushster', cursive;
+    color: red;
+    font-size: 40px;
+    font-weight: bolder;
+}
+.copy_right_footer{
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color:  #f5f5f5;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
+img{
+    border-radius: 30px;
+    margin: 40px;
+}
